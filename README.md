@@ -5,6 +5,4 @@ A cada item adicionado, o valor total do carrinho de compras é atualizado.
 
 Caso o usuário queira, pode limprar o carrinho de compras e iniciar novamente a operação.
 
-![image](https://github.com/user-attachments/assets/8cdce983-847a-44a8-9a08-42a57f7bd41a)
-
-
+![carrinho-layout](https://github.com/user-attachments/assets/b969b10f-3a92-41a2-a166-8f14157045d5)
